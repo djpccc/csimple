@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 void hello(char *name) {
-  print("Hello %s!\n", name);
+  print("Hello dear %s!\n", name);
 }
